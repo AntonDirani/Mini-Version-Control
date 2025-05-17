@@ -1,5 +1,5 @@
 # Source Safe
-This project, developed as a 5th-year university project for the Network Applications course, is a simplified implementation of the principles found in [Microsoft's Visual SourceSafe](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe)
+A collaborative file management app for teams. Upload, download, and organize files within projects and folders.
 
 ## Introduction
 
