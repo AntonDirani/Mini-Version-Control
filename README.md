@@ -1,6 +1,6 @@
 # Mini Version Control
 A collaborative file management app for teams. Upload, download, and organize files within projects and folders.
-inspired by the concepts of Microsoft SourceSafe,[Microsoft's Visual SourceSafe](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe)
+inspired by the concepts of Microsoft SourceSafe, [Microsoft's Visual SourceSafe](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe)
 
 ## Introduction
 
